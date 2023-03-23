@@ -1,3 +1,5 @@
+# C'est un exercice que j'ai repris à partir d'un cours que j'ai suivi sur Udemy d'Enzo Ustariz "20 projets en JavaScript"
+
 # Coder un calculateur d'IMC
 
 > ctrl+shift+v sur VS Code pour analyser ce fichier markdown
